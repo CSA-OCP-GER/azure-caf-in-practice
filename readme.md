@@ -4,7 +4,7 @@ In diesem Bootcamp haben wir eine einfache Aufteilung in vier Bereiche
 
 1. Einführung in das Cloud Adoption Framework
 2. Inhalte aus den Phasen Strategy-Plan-Ready
-3. Ein Schritt weiter - Governance 
+3. Ein Schritt weiter - Governance
 4. Ein Schritt weiter - Migration
 
 ## Einführung in das Cloud Adoption Framework
@@ -17,11 +17,11 @@ Nutzt den [DevOps Demo Generator](https://azuredevopsdemogenerator.azurewebsites
 
 ## Strategy-Plan-Ready
 
-Um die Diskussion beim Kunden zu den Phasen **Strategy**, **Plan** und **Ready** zur führen gibt es reichhaltige Ansätze. Einen Ansatz habt Ihr in unserem Bootcamp erlebt. 
+Um die Diskussion beim Kunden zu den Phasen **Strategy**, **Plan** und **Ready** zur führen gibt es reichhaltige Ansätze. Einen Ansatz habt Ihr in unserem Bootcamp erlebt.
 
 ### Übung 1
 
-**Gedankenspiel**
+#### Gedankenspiel
 
 Wir teilen uns in zwei Gruppen auf. Jede Gruppe versucht auf Basis [dies Briefings](../ICB-caf-in-practice/0_common/briefing-gruppe1.md), einige der initialen Fragen zu beantworten, um sich potentiellen Vorgaben für die Cloud Adaption zu nähern.
 
@@ -40,16 +40,16 @@ Folgende Fragen sollen helfen die ersten gewünschten Ergebnisse zu erhalten:
 
 Um die Governance Diskussion mit dem Kunden treiben zu können bieten wir folgendes [Slide Deck](../ICB-caf-in-practice/7_governance/Cloud&#32;Adoption&#32;Framework&#32;-&#32;Thru&#32;Partner&#32;Governance&#32;Workshop.pptx) an.
 
-### Übung 1
+### Übung 2
 
 Ausgehen von der Kundensituation aus der Übung oben, sollten nun die ersten Cloud Governance Überlegungen angestellt werden. Bitte folgende Fragen erarbeiten:
 
-- Wie würden Sie die Managementgruppen basierend auf dem Kundenszenario strukturieren? 
+- Wie würden Sie die Managementgruppen basierend auf dem Kundenszenario strukturieren?
 - Wie würden Sie Abonnements innerhalb von MGs aufteilen?
 - Wie würden Sie Ressourcengruppen definieren?
 - Welche Resource Governance Tools würden Sie einsetzen?
 
-### Übung 2
+### Übung 3
 
 Da Azure Policies eine wichtige Rolle spielen im Rahmen der Governance gern [folgende Lektion](https://docs.microsoft.com/en-us/learn/modules/intro-to-governance/) aus unserem Learning Portal durchspielen.
 
