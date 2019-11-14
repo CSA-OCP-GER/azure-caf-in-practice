@@ -1,4 +1,4 @@
-# Microsoft CLoud Adoption Framework in der Praxis
+# Microsoft Cloud Adoption Framework in der Praxis
 
 In diesem Bootcamp haben wir eine einfache Aufteilung in vier Bereiche
 
@@ -22,6 +22,7 @@ Um die Diskussion beim Kunden zu den Phasen **Strategy**, **Plan** und **Ready**
 ### Übung 1
 
 **Gedankenspiel**
+
 Wir teilen uns in zwei Gruppen auf. Jede Gruppe versucht auf Basis [dies Briefings](../ICB-caf-in-practice/0_common/briefing-gruppe1.md), einige der initialen Fragen zu beantworten, um sich potentiellen Vorgaben für die Cloud Adaption zu nähern.
 
 Folgende Fragen sollen helfen die ersten gewünschten Ergebnisse zu erhalten:
@@ -59,6 +60,9 @@ In der Adopt Phase liegen viele Themen und Bereiche die auf der Reise in die Clo
 ## Links und weitere Informationen
 
 [Cloud Adoption Framework Landingpage](https://azure.microsoft.com/en-us/cloud-adoption-framework/)
+
 [Learning Path](https://docs.microsoft.com/en-us/learn/modules/microsoft-cloud-adoption-framework-for-azure/)
+
 [Docs](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/)
+
 [Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/)
