@@ -23,7 +23,7 @@ Um die Diskussion beim Kunden zu den Phasen **Strategy**, **Plan** und **Ready**
 
 #### Gedankenspiel
 
-Wir teilen uns in zwei Gruppen auf. Jede Gruppe versucht auf Basis [dies Briefings](../ICB-caf-in-practice/0_common/briefing-gruppe1.md), einige der initialen Fragen zu beantworten, um sich potentiellen Vorgaben für die Cloud Adaption zu nähern.
+Wir teilen uns in zwei Gruppen auf. Jede Gruppe versucht auf Basis [dies Briefings](/0_common/briefing-gruppe1.md), einige der initialen Fragen zu beantworten, um sich potentiellen Vorgaben für die Cloud Adaption zu nähern.
 
 Folgende Fragen sollen helfen die ersten gewünschten Ergebnisse zu erhalten:
 
