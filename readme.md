@@ -39,7 +39,7 @@ Folgende Fragen sollen helfen die ersten gewünschten Ergebnisse zu erhalten:
 
 ## Governance
 
-Um die Governance Diskussion mit dem Kunden treiben zu können bieten wir folgendes [Slide Deck](../ICB-caf-in-practice/7_governance/Cloud&#32;Adoption&#32;Framework&#32;-&#32;Thru&#32;Partner&#32;Governance&#32;Workshop.pptx) an.
+Um die Governance Diskussion mit dem Kunden treiben zu können bieten wir folgendes [Slide Deck](/7_governance/Cloud&#32;Adoption&#32;Framework&#32;-&#32;Thru&#32;Partner&#32;Governance&#32;Workshop.pptx) an.
 
 <details><summary> Übung Governance </summary><p>
 
