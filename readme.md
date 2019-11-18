@@ -11,15 +11,15 @@ In diesem Bootcamp haben wir eine einfache Aufteilung in vier Bereiche
 
 Dieses [Slide Deck](1_intro/Cloud&#32;Adoption&#32;Framework&#32;-&#32;Walking&#32;Deck&#32;(L100).pptx) führt durch die Einführung in das Cloud Adoption Framework. Weitere Informationen und Videos sind auf der Azure Website für Partner zu finden. Dort gibt es einen Bereich rund um das [Cloud Adoption Framework](https://www.microsoft.com/azure/partners/cloud-adoption-framework)
 
-### Übung
-
+<details><summary>Übung Planung</summary><p>
 Nutzt den [DevOps Demo Generator](https://azuredevopsdemogenerator.azurewebsites.net/) um Euch in eurem Azure DevOps ein erstes Projekt bereitzustellen.
+</p></details>
 
 ## Strategy-Plan-Ready
 
 Um die Diskussion beim Kunden zu den Phasen **Strategy**, **Plan** und **Ready** zur führen gibt es reichhaltige Ansätze. Einen Ansatz habt Ihr in unserem Bootcamp erlebt.
 
-### Übung 1
+<details><summary> Übung Strategy </summary><p>
 
 #### Gedankenspiel
 
@@ -35,12 +35,13 @@ Folgende Fragen sollen helfen die ersten gewünschten Ergebnisse zu erhalten:
 - Welche Kriterien definieren, wo sich Apps oder Daten befinden?
 - Welche Risiken haben Sie identifiziert?
 - Was sind die nächsten Anwendungen und Datenbanken, die Sie identifiziert haben, um in die Cloud zu wechseln?
+</p></details>
 
 ## Governance
 
 Um die Governance Diskussion mit dem Kunden treiben zu können bieten wir folgendes [Slide Deck](../ICB-caf-in-practice/7_governance/Cloud&#32;Adoption&#32;Framework&#32;-&#32;Thru&#32;Partner&#32;Governance&#32;Workshop.pptx) an.
 
-### Übung 2
+<details><summary> Übung Governance </summary><p>
 
 Ausgehen von der Kundensituation aus der Übung oben, sollten nun die ersten Cloud Governance Überlegungen angestellt werden. Bitte folgende Fragen erarbeiten:
 
@@ -48,10 +49,12 @@ Ausgehen von der Kundensituation aus der Übung oben, sollten nun die ersten Clo
 - Wie würden Sie Abonnements innerhalb von MGs aufteilen?
 - Wie würden Sie Ressourcengruppen definieren?
 - Welche Resource Governance Tools würden Sie einsetzen?
+</p></details>
 
-### Übung 3
+<details><summary> Übung Optional </summary><p>
 
 Da Azure Policies eine wichtige Rolle spielen im Rahmen der Governance gern [folgende Lektion](https://docs.microsoft.com/en-us/learn/modules/intro-to-governance/) aus unserem Learning Portal durchspielen.
+</p></details>
 
 ## Adopt Migration / Innovation
 
