@@ -56,6 +56,7 @@ Ausgehen von der Kundensituation aus der Übung oben, sollten nun die ersten Clo
 Da Azure Policies eine wichtige Rolle spielen im Rahmen der Governance gern [folgende Lektion](https://docs.microsoft.com/en-us/learn/modules/intro-to-governance/) aus unserem Learning Portal durchspielen.
 </p></details>
 
+
 ## Adopt Migration / Innovation
 
 In der Adopt Phase liegen viele Themen und Bereiche die auf der Reise in die Cloud weiteres Wissen benötigen. In Bezug auf die Migration von Workloads haben wir auf der Azure Partnerseite ein [Migration Slide Deck](https://www.microsoft.com/azure/partners/resources/download/migration-conversation) bereitgestellt.
