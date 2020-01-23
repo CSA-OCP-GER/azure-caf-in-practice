@@ -70,3 +70,6 @@ In der Adopt Phase liegen viele Themen und Bereiche die auf der Reise in die Clo
 [Docs](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/)
 
 [Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/)
+
+[Microsoft Partner Community](https://www.microsoftpartnercommunity.com/t5/Cloud-Adoption-Framework/gp-p/CloudAdoption)
+Wenn Ihr noch nicht der Microsoft Partner Community beigetreten seid, bitte erst mal über SignIn (oben rechts) anmelden und dann der CAF-Community beitreten.
